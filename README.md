@@ -29,6 +29,8 @@ Szene/ Asset= zimmer1408: DVD 3: Room 1408 = Jens Schäfer
 
 Szene/ Asset = enterthevoid: DVD 4: Enter the Void = Emiliano Bott
 
+Szene/ Asset = Wohnzimmer: Modellierung= Fabian Rödder, Zauberstrudel= Marion Stollenwerk, Interaktion DVDs= Jens Schäfer
+
 Im Wintersemester 2017 lag unser Fokus auf dem Wahrnehmungs- und Narrationsmuster.
 Im Sommersemester 2018 haben wir unser Projekt mit dem Interaktionsmuster erweitert.
 

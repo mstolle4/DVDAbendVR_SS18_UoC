@@ -34,6 +34,6 @@ Szene/ Asset = Wohnzimmer: Modellierung= Fabian Rödder, Zauberstrudel= Marion S
 Im Wintersemester 2017 lag unser Fokus auf dem Wahrnehmungs- und Narrationsmuster.
 Im Sommersemester 2018 haben wir unser Projekt mit dem Interaktionsmuster erweitert.
 
-Da unser Gruppenmitglied Emiliano Bott im Wintersemester bereits das Modul erfolgreich bestanden hat, wurde die DVD 3 im Sommersemester nicht mit weiterer Interaktivität ergänzt. 
+Da unser Gruppenmitglied Emiliano Bott im Wintersemester bereits das Modul erfolgreich bestanden hat, wurde die DVD 4 (Enter the Void), im Sommersemester nicht mit weiterer Interaktivität ergänzt. 
 
 Die jeweilige Konzeptidee, der verschiedenen gestalteten virtuellen Räume der DVDs,                                                    unter Berücksichtigung der Übung „Media Transformation I“ und Mediatransformation II“ von Herrn Dr. Wieners sowie der Vorlesung „Media Transformation“ von Herrn Dr. Eide, beschreibt jedes Gruppenmitglied intern in seiner Ausarbeit.
